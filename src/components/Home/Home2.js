@@ -22,34 +22,29 @@ function Home2() {
               I fell in love with programming and I have at least learnt
               something, I think… 🤷‍♂️
               <br />
-              <br />I am fluent in classics like
+              <br />I am fluent in Backend classics like
               <i>
-                <b className="purple"> Java,Aws,Azure,Javascript and Go. </b>
+                <b className="purple"> Java, SpringBoot,Spring Mvc,spring Security Hibernate,JPA,Java8  </b>
               </i>
               <br />
               <br />
               My field of Interest's are building new &nbsp;
+
               <i>
-                <b className="purple">Web Technologies and Products </b> and
+                <b className="purple">Web Technologies and Products using RecatJS and Javascript for frontend and Backend using above mentioned Technologies</b> and
+              for <b>Databases </b> (for Sql)using Mysql and orcale and (NoSql) MangoDb.
+               
+              and for  <b> Deployements </b> using vercel for SPA like React and aws and azure for backend applications
                 also in areas related to{" "}
                 <b className="purple">
-                  Blockchain.
+                  Shopify, RPA(Using UI Path), Okta for security
                 </b>
               </i>
               <br />
               <br />
               Whenever possible, I also apply my passion for developing products
-              with <b className="purple">Node.js</b> and
-              <i>
-                <b className="purple">
-                  {" "}
-                  Modern Javascript Library and Frameworks
-                </b>
-              </i>
-              &nbsp; like
-              <i>
-                <b className="purple"> React.js and Next.js</b>
-              </i>
+              with <b className="purple">Node.js and NextJs</b> 
+             
             </p>
           </Col>
           <Col md={4} className="myAvtar">
