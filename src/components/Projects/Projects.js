@@ -48,7 +48,7 @@ function Projects() {
               imgPath={editor}
               isBlog={false}
               title="Stocks Data management"
-              description="Online code and markdown editor build with react.js. Online Editor which supports html, css, and js code with instant view of website. Online markdown editor for building README file which supports GFM, Custom Html tags with toolbar and instant preview.Both the editor supports auto save of work using Local Storage"
+              description="Spring Boot and Spring Security. The service will provide real-time or near real-time stock quotes to client applications."
               ghLink="https://github.com/faisalllllf/StockService.git"
             //  demoLink=""              
             />
