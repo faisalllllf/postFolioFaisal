@@ -5,9 +5,9 @@ import Particle from "../Particle";
 import leaf from "../../Assets/Projects/leaf.png";
 import emotion from "../../Assets/Projects/emotion.png";
 import editor from "../../Assets/Projects/codeEditor.png";
-import hrm from "../../Assets/Projects/hrmproject.png";
+import hrmproject from "../../Assets/Projects/hrmproject.png";
 import suicide from "../../Assets/Projects/suicide.png";
-import Hotel from "../../Assets/Projects/hotelll.png";
+import hotelll from "../../Assets/Projects/hotelll.png";
 
 function Projects() {
   return (
@@ -23,7 +23,7 @@ function Projects() {
         <Row style={{ justifyContent: "center", paddingBottom: "10px" }}>
           <Col md={4} className="project-card">
             <ProjectCard
-              imgPath={hrm}
+              imgPath={hrmproject}
               isBlog={false}
               title="hrm"
               description="Human Resources Management it is website to manage all employees in one organization to maintain employee data."
@@ -34,7 +34,7 @@ function Projects() {
 
           <Col md={4} className="project-card">
             <ProjectCard
-              imgPath={bitsOfCode}
+              imgPath={hotelll}
               isBlog={false}
               title="Hotel Management"
               description="Web application For Hotel Management of a particular Hotel TEchnologies used are Java react and Api and Aws and mysql"
